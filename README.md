@@ -1,18 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mastering React 2025 with Lee Robinson
+
+#### Source: [Youtube Link](https://www.youtube.com/watch?v=MxR5I5_hOKk&list=PL6bwFJ82M6FXgctyoWXqj7H0GK8_YIeF1&index=2)
+
+#### Date: 17/2/2021
 
 ## Getting Started
 
-First, run the development server:
+1.  Run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+        ```bash
+        npm install react
+        npm run dev
+        ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2.  Open [http://localhost:3000](http://localhost:3000) with any browser to see the result.
+3.  From here, can start editing the page by modifying `pages/index.js`. The page has auto-updates as we edit the file.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### For Review in the next lesson.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
