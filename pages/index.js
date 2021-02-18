@@ -13,9 +13,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Fast Feedback
         </h1>
-
+          <h2>Tutorial Mastering React 2025 with Lee Robinson</h2>
         <p className={styles.description}>
-          Get started by editing{' '}
+          Edited {' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
